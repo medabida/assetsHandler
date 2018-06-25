@@ -1,4 +1,5 @@
 # assetsHandler
+~~~~
 server {
 	listen 443 ssl;
 	server_name <SERVER_NAME>;
@@ -37,3 +38,4 @@ server {
 
 
 }
+~~~~
